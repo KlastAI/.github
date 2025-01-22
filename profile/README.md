@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, shall we meet? I'm <a href="https://pollens.app/" target="_blank">Pollens</a> 
+<h1 align="center">Hi there, shall we meet? I'm <a href="https://pollens.io/" target="_blank">Pollens</a> 
 <img src="https:/PollensAI/github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Your AI Partner Helps You Better Write, Draw and Present.</h3>
 

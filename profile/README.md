@@ -3,7 +3,7 @@
 <h3 align="center">Your AI Partner Helps You Better Write, Draw and Present.</h3>
 
 <div align="center">
-<img src="https://github.com/KlastAI/.github/blob/main/profile/images/cover1.png" width="400" alt="Klast Logo" />
+<img src="https://github.com/KlastAI/.github/blob/main/profile/images/cover2.png" width="400" alt="Klast Logo" />
 </div>
 
 <h1 align="center"></h1>
